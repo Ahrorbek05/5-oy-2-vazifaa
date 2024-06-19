@@ -190,3 +190,10 @@
 // (function () {
 //     let res = 
 // })()
+
+// callback
+// function hello(callback) {
+//     var a = +prompt('Iltimos Isminggizni kiriting:');
+//     callback(a);
+// }
+// hello();
