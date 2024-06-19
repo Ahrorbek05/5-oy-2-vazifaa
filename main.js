@@ -162,4 +162,31 @@
 // }
 // console.log(uchXonaliSon([12, 55, 225, 505,  1212]));
 
-// 14.
+// IIFE ga oid masalalar
+
+// 1.
+// (function () {
+//     console.log('hello world');
+// })();
+
+// 2.
+// (function () {
+//     function add() {
+//       console.log('salom');
+//     }
+//     add();
+// })();
+
+// 3.
+// (function () {
+//     function hello() {
+//       console.log('salom');
+//     }
+    
+// })();
+// hello();
+
+// 4.
+(function () {
+    let res = 
+})()
