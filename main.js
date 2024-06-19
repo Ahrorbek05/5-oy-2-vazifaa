@@ -187,6 +187,6 @@
 // hello();
 
 // 4.
-(function () {
-    let res = 
-})()
+// (function () {
+//     let res = 
+// })()
